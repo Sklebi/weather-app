@@ -1,4 +1,6 @@
 # weather-app
+TO DOWNLOAD:
+-> Click on the main.exe file and then download to open
 -> If you get the windows defender popup, just click more info and then run anyway! 
 
 This is: 
